@@ -47,7 +47,7 @@ int BinarySearch(int arr[], int key, int s, int e)
     }
     return -1;
 }
-
+//bhcdkjwdhjfkherlkjfilerhjghekrhkhgtuiery
 //first and last occurance of an element in an array
 int FirstOccurance(int arr[],int n, int key)
 {
